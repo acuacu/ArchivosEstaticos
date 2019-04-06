@@ -1,2 +1,2 @@
 # ArchivosEstaticos
-Un servidor de archivos estaticos echo en Python. Sin base de datos ni configuración alguna.
+Un servidor de archivos estaticos hecho en Python. Sin base de datos ni configuración alguna.
